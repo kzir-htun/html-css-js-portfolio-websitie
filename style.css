@@ -285,7 +285,7 @@ section{
     border-radius: 2rem;
 }
 
-.arrow{
+.arrow{ 
     position: absolute;
     right: -5rem;
     bottom: 2.5remf;
